@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+}
